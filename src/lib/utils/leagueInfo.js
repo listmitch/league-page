@@ -7,12 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>🏈 Got 25 Bucks? That's the buy-in! I mean, what were you gonna do with it anyway? Another avocado toast? Dive in, be the mastermind of your own tragic football destiny!</p>
+  <p>🎟️ Lousy Draft? Pack Your Bags! Mess up your draft and you're buying a ticket to a third-world country. Who thought of this? I hope they pack you an extra sandwich.</p>
+  <p>📊 The "Mitchel Mystique": Everyone's running around saying Mitchel's the projected winner. Oh, great seer of the future! But here’s a wild idea: How about YOU beat the odds and show Mitchel how it's done</p>
+  <p>And a Special Shoutout to Robby: The only guy we know who'd bet on a tick race after getting Lyme disease. Just remember, pal, not all risks pay off – especially in fantasy football. Good luck this year; you'll need it!</p>
 `;
 
 /*   STEP 3   */
